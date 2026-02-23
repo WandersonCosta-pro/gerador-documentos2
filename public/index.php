@@ -1,6 +1,8 @@
 <?php
 
-require_once __DIR__ . '/../app/Controllers/DocumentoController.php';
+require_once __DIR__ . '/../core/Autoload.php';
+
+use App\Controllers\DocumentoController;
 
 $controller = new DocumentoController();
 

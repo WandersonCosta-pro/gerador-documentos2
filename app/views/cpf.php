@@ -2,7 +2,7 @@
 <html>
 <head>
     <title>CPF Gerado</title>
-    <link rel="stylesheet" href="/gerador-documentos2/public/css/style.css">
+    <link rel="stylesheet" href="css/style.css">
 
 </head>
 <body>

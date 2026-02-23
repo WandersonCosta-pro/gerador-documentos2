@@ -1,6 +1,6 @@
 <?php
 
-require_once __DIR__ . '/../core/Autoload.php';
+require_once __DIR__ . '/../vendor/autoload.php';
 
 use App\Controllers\DocumentoController;
 

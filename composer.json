@@ -1,0 +1,16 @@
+{
+    "name": "wanderson/gerador-documentos2",
+    "description": "Gerador de CPF e CNPJ usando namespace e autoload",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Wanderson",
+            "email": "wandersonteixeira417@gmail.com"
+        }
+    ],
+    "require": {}
+}
